@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplos de Vistas</string>
+    <string name="btn_text">Botón</string>
+    <string name="ib_content">Botón con carita</string>
+    <string name="chbx1_text">Checkbox2</string>
+    <string name="chbx2_text">Checkbox1</string>
+    <string name="et_text">Introduce tu texto aquí</string>
+    <string name="iv_content">Logo Android</string>
+</resources>
